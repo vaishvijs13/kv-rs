@@ -1,1 +1,0 @@
-std::iter::Map<std::vec::IntoIter<std::string::String>, fn(std::option::Option<std::string::String>) -> Response {Response::BulkString}>
